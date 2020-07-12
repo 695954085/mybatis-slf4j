@@ -10,7 +10,7 @@
 
     <logger name="com.example.demo.CityMapper" level="TRACE"></logger>
 
-    <root level="INFO">
+    <root level="TRACE">
         <appender-ref ref="STDOUT" />
     </root>
 </configuration>

@@ -28,9 +28,6 @@ public class City {
         this.state = state;
     }
 
-    public City() {
-    }
-
     public int getVersion() {
         return version;
     }
